@@ -24,7 +24,6 @@ Here's the example:
         </script> 
     </body>
 </html>
-<head>
 
 
 
